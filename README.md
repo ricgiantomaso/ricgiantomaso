@@ -7,24 +7,28 @@ Sobre mim:
 <br>
 🔭 Desenvolvedor de software
 
+👨🏻‍💻 Professor de programação do curso de Desenvolvimento de Jogos Digitais da Etec Avaré
+
 ✨ Apaixonado por tecnologia
 
 😄 Pronomes: Ele/Dele - He/Him
 
-🥋 Atleta de karatê (faixa laranja). Oss!
+🥋 Atleta de karatê (faixa verde). Oss!
 
 ⚡ Fun-fact: O melhor mono **Lillia** do mundo. 🌸 (A confirmar)
 
 <br>
 <br>
 
-Atualmente estudando desenvolvimento de API's e websites, com foco em **Java** e microserviços com **Spring**.
+Atualmente estudando desenvolvimento de jogos e websites, com foco em **C#**, **Unity** e **JavaScript**. Neste repositório, você também encontrará projetos com Java e Python!
 
 <div style='display:inline'>
 
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   
@@ -32,9 +36,9 @@ Atualmente estudando desenvolvimento de API's e websites, com foco em **Java** e
 
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />     
 
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />       
+    
 
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
 
 
 </div>
