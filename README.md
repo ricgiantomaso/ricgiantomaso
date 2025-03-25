@@ -7,20 +7,20 @@ Sobre mim:
 <br>
 🔭 Desenvolvedor de software
 
-👨🏻‍💻 Professor de programação do curso de Desenvolvimento de Jogos Digitais da Etec Avaré
+👨🏻‍💻 Professor de programação do curso de Desenvolvimento de Jogos Digitais da Etec Avaré e de Engenharia da Computação da FEAP Avaré!
 
 ✨ Apaixonado por tecnologia
 
 😄 Pronomes: Ele/Dele - He/Him
 
-🥋 Atleta de karatê (faixa verde). Oss!
+🥋 Atleta de karatê (faixa roxa). Oss!
 
 ⚡ Fun-fact: O melhor mono **Lillia** do mundo. 🌸 (A confirmar)
 
 <br>
 <br>
 
-Atualmente estudando desenvolvimento de jogos e websites, com foco em **C#**, **Unity** e **JavaScript**. Neste repositório, você também encontrará projetos com Java e Python!
+Atualmente estudando desenvolvimento de jogos e websites, com foco em **C#**, **Unity Engine**, **Unreal Engine** e **JavaScript**. Neste repositório, você também encontrará alguns projetos com Java e Python!
 
 <div style='display:inline'>
 
