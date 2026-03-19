@@ -7,13 +7,13 @@ Sobre mim:
 <br>
 🔭 Desenvolvedor de software
 
-👨🏻‍💻 Professor de programação do curso de Desenvolvimento de Jogos Digitais da Etec Avaré e de Engenharia da Computação da FEAP Avaré!
+👨🏻‍💻 Técnico em Informática na Prefeitura Municipal de Piracicaba
 
 ✨ Apaixonado por tecnologia
 
 😄 Pronomes: Ele/Dele - He/Him
 
-🥋 Atleta de karatê (faixa roxa). Oss!
+🥋 Atleta de karatê (faixa marrom). Oss!
 
 ⚡ Fun-fact: O melhor mono **Lillia** do mundo. 🌸 (A confirmar)
 
